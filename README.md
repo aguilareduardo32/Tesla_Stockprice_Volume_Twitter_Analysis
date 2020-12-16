@@ -1,6 +1,4 @@
 # Tesla Stock price Volume Twitter Analysis
 
-
-What Is This?
-
+Getting Started
 
